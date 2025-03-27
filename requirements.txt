@@ -1,0 +1,4 @@
+youtube-transcript-api
+sentence-transformers
+faiss-cpu
+boto3
